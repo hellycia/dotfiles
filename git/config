@@ -1,0 +1,17 @@
+[user]
+	name = hellycia
+	email = wattiaux.helene@hotmail.fr
+[core]
+	excludesfile = ~/.gitignore
+    	editor= nvim
+	excludesfiles = /home/hellycia/.gitignore
+[pull]
+	default = current
+[push]
+	default = current
+[tag]
+	sort = version:refname
+[branch]
+	sort = -committerdate
+[mergetool]
+	keepBackup = false
