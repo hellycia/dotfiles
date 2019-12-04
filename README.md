@@ -17,7 +17,7 @@ pacman -S --noconfirm git
 Clone the repository:
 
 ```
-git clone https://github.com/lcouellan/dotfiles ~/.dotfiles
+git clone https://github.com/hellycia/dotfiles ~/.dotfiles
 ```
 
 Magic install:
